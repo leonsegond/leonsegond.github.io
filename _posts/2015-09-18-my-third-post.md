@@ -1,7 +1,9 @@
 ---
 published: true
 title: My third post
+layout: default
 ---
+
 
 ## My third post
 
