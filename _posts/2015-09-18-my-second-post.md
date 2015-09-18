@@ -1,7 +1,9 @@
 ---
 published: true
 title: My second post
+layout: default
 ---
+
 
 
 ## My second post
